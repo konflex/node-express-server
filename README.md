@@ -3,6 +3,7 @@
 ## System Prerequisites
 
 - Node 16.x+
+- Npm 9.x+
 
 ## First run
 1. Run `npm install` to install local dependencies.
