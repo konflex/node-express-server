@@ -40,6 +40,7 @@ process.on('unhandledRejection', (err) => {
 async function main() {
     try {
 
+      
       // Create a new DAL instance
       const dal = new DAL()
       // Connect to the Couchbase cluster
