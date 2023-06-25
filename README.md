@@ -11,4 +11,5 @@
 4. Run `npm run dev` to start the server. 
 
 ## Next runs
-1. Run `npm run dev` to start the server. 
+1. Run `npm run build` to compile the code.
+2. Run `npm run dev` to start the server. 
