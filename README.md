@@ -3,4 +3,4 @@
 ## Requirements
 
 - node@^16.16.0
-- enter credentials 
+- enter credentials in src/dal/dal.ts
